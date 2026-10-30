@@ -96,7 +96,7 @@ The application uses two tables:
 - Maintains the predicted house price.
 - Associates each prediction with the respective user.
 
-## 🚀 Installation and Setup
+##  Installation and Setup
 
 **1. Clone the repository**
 
