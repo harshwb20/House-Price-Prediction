@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="card" style="width:400px;">
+    <h2>Login</h2>
+
+    <form method="POST">
+        <div class="form-group">
+            <label>Email</label>
+            <input type="email" name="email" required>
+        </div>
+
+        <div class="form-group" style="margin-top:15px;">
+            <label>Password</label>
+            <input type="password" name="password" required>
+        </div>
+
+        <div class="btn-container">
+            <button type="submit">Login</button>
+        </div>
+    </form>
+
+    <p style="text-align:center; margin-top:20px; color:#bbb;">
+        Don’t have account?
+        <a href="/signup" style="color:#94105b;">Create Account</a>
+    </p>
+</div>
+
+</body>
+</html>
