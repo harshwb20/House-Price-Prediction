@@ -32,6 +32,10 @@ The application also maintains individual prediction history for each registered
 | CSS3 | Styling |
 | Jinja2 | Dynamic HTML rendering |
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,flask,sklearn,numpy,mysql,html,css" />
+</p>
+
 ##  Input Features
 
 The application uses eight input features for prediction:
