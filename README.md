@@ -33,7 +33,8 @@ The application also maintains individual prediction history for each registered
 | Jinja2 | Dynamic HTML rendering |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,sklearn,numpy,mysql,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,flask,sklearn,mysql,html,css" />
+   <img src="https://cdn.simpleicons.org/numpy/013243" height="48" />
 </p>
 
 ##  Input Features
